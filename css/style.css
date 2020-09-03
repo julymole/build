@@ -541,7 +541,8 @@ body {
   position: relative;
   background-image: url(../../img/videoposter.jpg);
   background-size: 100%;
-  background-position: center; }
+  background-position: center;
+  z-index: 1000; }
   .about-program__video-block button {
     display: block;
     position: absolute;
