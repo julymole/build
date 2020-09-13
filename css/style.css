@@ -2112,7 +2112,7 @@ details[open] summary::after {
     display: block;
     width: 22px;
     height: 22px;
-    background-image: url("../../img/sm.svg"); }
+    background-image: url("../img/sm.png"); }
     .footer__socials a:nth-of-type(1) {
       background-position: 0; }
     .footer__socials a:nth-of-type(2) {
